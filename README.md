@@ -1,5 +1,7 @@
 ## Let's Scratch ##
 
+A basic scratch reveal card feature for any game, impletemented using PIXI.js and TypeScript in VSCode.
+
 1. Install VSCode
 2. Install Node/npm
 3. Open the project folder
